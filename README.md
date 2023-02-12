@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -19,3 +20,6 @@ from csw 2023.2.12
 
 
 ## 
+=======
+# project_simulate
+>>>>>>> d5cba2346252909f41d350bcd8d7d05152418aaa
